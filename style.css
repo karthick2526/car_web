@@ -350,37 +350,6 @@ h2 em {
     text-transform: uppercase;
 }
 
-.hero-bottom {
-    display: grid;
-
-    grid-template-columns: repeat(3, 1fr);
-
-    border-top: 1px solid #d3cec3;
-
-    margin-top: 55px;
-
-    padding-top: 25px;
-}
-
-.hero-bottom div {
-    display: flex;
-
-    align-items: center;
-
-    gap: 12px;
-}
-
-.hero-bottom strong {
-    font-family: "Playfair Display", serif;
-
-    font-size: 25px;
-}
-
-.hero-bottom span {
-    font-size: 12px;
-
-    color: var(--muted);
-}
 
 
 /* =========================================================
